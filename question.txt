@@ -1,7 +1,8 @@
 1) what is relation between VMWare, kali linux, server, centos???
 can explain basic software for cyberdefence
 
-
+--------------------------------------------------------------
+===========================================================
 
 2) function of core and RAM? is it use simultaneously?
 
