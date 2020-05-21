@@ -2,6 +2,7 @@
 can explain basic software for cyberdefence
 
 --------------------------------------------------------------
+===========================================================
 
 2) function of core and RAM? is it use simultaneously?
 
