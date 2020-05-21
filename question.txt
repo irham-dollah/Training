@@ -1,0 +1,42 @@
+1) what is relation between VMWare, kali linux, server, centos?
+can explain basic software for cyberdefence
+
+
+
+2) function of core and RAM? is it use simultaneously?
+
+
+
+3) Perlu hardening semua OS yg kita install ke?
+
+4) Kali - Hardening
+- kenapa kena tukar hostname
+- msfdb itu database apa? msfdb itu apa
+- ada yang dah built in dalam linux and ada yg blm?
+- net-tools
+
+5) Server - 
+- kenapa kena same path, nanti ada kena route apa2 ke? atau best practice je
+- NAT is LAN and VMNET2 is VLAN? apa function dua ni, bila guna? VMNET tu klu no lain?
+- kenapa kena chnage PC name
+- VM-ware tool kena install setiap kali ke
+- IP address semua memang dekat2 ke? 192.168 tu memang common utk internet eh?
+- apa add role and feature? 
+- kenapa setiap kali tu kena promote server ke domain?
+- test.local tu akan jadi domain kita kan? so policy set dekat ctu. password tu utk kunci domain ke
+- beza domain dengan server
+- DNS server?
+- web server, print server, window server, update service
+- FPP?
+- active directory tu macam database ke?
+- service apache2 tu utk apa?
+- armitage tu IDE utk msfconsole
+- setoolkit utk?
+- msfvenom kenapa kena ada? bkn dah ada msfconsole dgn armitage
+- VPN apa? TOR apa? 
+- proxychain utk apa? configure apa
+- apa dynamic dgn static chain? socks tu apa?
+
+3) CENTOS ni apa lagi kena buat - 
+
+4) 
