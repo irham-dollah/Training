@@ -1,4 +1,4 @@
-1) what is relation between VMWare, kali linux, server, centos?
+1) what is relation between VMWare, kali linux, server, centos???
 can explain basic software for cyberdefence
 
 
